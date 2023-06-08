@@ -1,0 +1,9 @@
+.title-row {
+  display: flex;
+  flex-flow: row nowrap;
+}
+
+.title-column {
+  display: flex;
+  flex-flow: column nowrap;
+}
